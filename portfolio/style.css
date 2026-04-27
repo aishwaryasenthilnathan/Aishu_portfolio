@@ -131,7 +131,7 @@ section{
 
 .card {
   background:var(--card-bg);
-  border:1px solid #4d114dc0;
+  border:1px solid #111c4dc0;
   padding:1.1rem;
   border-radius:12px;
   box-shadow:0 6px 20px rgba(32, 32, 32, 0.89);
@@ -159,14 +159,14 @@ section{
  }
 
 .stack span{
-  border:1px solid #ab10b9;
+  border:1px solid #102fb9;
   border-radius:12px;
   font-size:.8rem;
   padding:6px 8px;
   margin-right:6px;
   display:inline-block;
   margin-top:6px;
-  background:#b358ca;
+  background:#5873ca;
   color:#ffffff;
 }
 
